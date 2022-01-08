@@ -44,6 +44,6 @@
 </div></br>
 
 ### 🎶 Me mostre sua playlist
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/07tQ35hPKH4YbreBswkdZ9?si=afa3715dccd04263)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/37qgqzvKyLoLQ4tCD1y7kN?si=49bfb0fbd9d4448c)
 
 ![Snake animation](https://github.com/KellisonSilva/KellisonSilva/blob/output/github-contribution-grid-snake.svg)
