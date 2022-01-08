@@ -9,7 +9,7 @@
 - 💪 Work out
 
 
-[![Proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](shellsCode@protonmail.com)
+[![Proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](protonmail.com/login)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Drvww)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit)](https://discord.io/DRVW)
 
@@ -44,8 +44,4 @@
 </div></br>
 
 ### 🎶 Me mostre sua playlist
-<div style = "display: inline_block"><br/>
-<img align ="center" alt ="spotify" src ="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
-
-</div>
-
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/07tQ35hPKH4YbreBswkdZ9?si=afa3715dccd04263)
