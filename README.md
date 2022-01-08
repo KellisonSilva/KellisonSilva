@@ -1,9 +1,6 @@
 ### Hi friend ✋!!
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=KellisonSilva&color=green" alt ="Profile views" /> </p>
 
-
-![Matrix](https://user-images.githubusercontent.com/45300498/148630939-e6972305-2703-4629-bb73-0589879d5554.gif)
-
 - Eterno estudante...
 - 💻 backend developer
 - 🔩 IOT
@@ -17,10 +14,11 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit)](https://discord.io/DRVW)
 
 
-![DRVW GitHub stats](https://github-readme-stats.vercel.app/api?username=KellisonSilva&show_icons=true&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KellisonSilva&theme=blue-green)
-
+<div>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=KellisonSilva&show_icons=true&theme=cobalt"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KellisonSilva&theme=blue-green"/>
+</div>
 
 
 ## 🔧 Tecnologias que uso com frequência
