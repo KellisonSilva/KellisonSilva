@@ -9,7 +9,7 @@
 - 💪 Work out
 
 
-[![Proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://protonmail.com/login)
+[![Proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](protonmail.com/login)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Drvww)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit)](https://discord.io/DRVW)
 
@@ -44,6 +44,9 @@
 </div></br>
 
 ### 🎶 Me mostre sua playlist
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4c5OkkrqvsXK03bbJ3vD5l?si=06ab3767b1ef4c09)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5BHvN8HdnLf9QIhkyfl8a1)
+
+### 🎶 Ouça essa obra de arte
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/gJadNSA9RJU)
 
 ![Snake animation](https://github.com/KellisonSilva/KellisonSilva/blob/output/github-contribution-grid-snake.svg)
