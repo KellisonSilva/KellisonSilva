@@ -49,4 +49,4 @@
 ### 🎶 Ouça essa obra de arte
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/gJadNSA9RJU)
 
-![Snake animation](https://github.com/KellisonSilva/KellisonSilva/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/KellisonSilva/KellisonSilva/blob/output/github-contribution-grid-snake.svg) -->
