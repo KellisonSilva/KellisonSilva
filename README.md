@@ -2,7 +2,7 @@
 <h1 align ="left"> Hi guys..my name is Drvw</h1>
 <img align = "right" src="https://user-images.githubusercontent.com/45300498/149220123-cafee2d8-0b3b-4aeb-974b-201710fc502a.gif" width ="290px"/> 
   
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=KellisonSilva&color=green" alt ="Profile views" /> </p>
+<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=KellisonSilva&color=green" alt ="Profile views"/> </p>
 
 - Eterno estudante...
 - 💻 backend developer
