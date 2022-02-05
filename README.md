@@ -55,4 +55,4 @@
 [![Spotify](https://img.shields.io/badge/-Spotify-05122A?style=flat&logo=Spotify)](https://open.spotify.com/playlist/5BHvN8HdnLf9QIhkyfl8a1)
 
 ### 🎶 Ouça essa obra de arte
-[![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=YouTube)](https://youtu.be/gJadNSA9RJU)
+[![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=YouTube)](https://youtu.be/E9PiL5icwic)
