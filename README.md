@@ -39,9 +39,6 @@
 [![YouTube](https://img.icons8.com/color/40/000000/youtube-play.png)](https://youtu.be/E9PiL5icwic)
 
 
-### Connect with me
-[![Proton](https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-protonmail-is-an-end-to-end-encrypted-email-service-logo-color-tal-revivo.png)](https://protonmail.com/login)
-[![Discord](https://img.icons8.com/color/40/000000/discord--v2.png)](https://discord.io/DRVW)
   
  <br/>
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=KellisonSilva&color=blue" alt ="Profile views"/> </p>
