@@ -33,12 +33,6 @@
  <img width ="380em" src="https://github-readme-stats.vercel.app/api/?username=KellisonSilva&show_icons=true&theme=vision-friendly-dark" alt="DRVW's statis"/>
   </p>
 
-
-### 🎶 Show me your playlist
-[![Spotify](https://img.icons8.com/fluency/40/000000/spotify.png)](https://open.spotify.com/playlist/5BHvN8HdnLf9QIhkyfl8a1)
-[![YouTube](https://img.icons8.com/color/40/000000/youtube-play.png)](https://youtu.be/E9PiL5icwic)
-
-
   
  <br/>
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=KellisonSilva&color=blue" alt ="Profile views"/> </p>
