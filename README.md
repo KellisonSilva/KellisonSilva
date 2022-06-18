@@ -1,5 +1,5 @@
 
-<p align ="center"> <img width="40%" height="auto" src="https://user-images.githubusercontent.com/45300498/149220123-cafee2d8-0b3b-4aeb-974b-201710fc502a.gif" height="300px"/>
+<p align ="center"> <img width="40%" height="auto" src="https://64.media.tumblr.com/58ab548bd6bf9efbe1142804da876b2b/tumblr_o4nfg5iLUr1rztjsno3_r1_500.gif height="300px"/>
 
 <h1 align ="center"> Hi I'm Drvw </h1>
 
