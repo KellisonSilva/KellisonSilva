@@ -28,10 +28,10 @@
 
 </div>
  
-<p align ="center">
-  <img width ="380em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=KellisonSilva&layout=compact&theme=vision-friendly-dark" alt="KellisonSilva's most languages"/>
- <img width ="380em" src="https://github-readme-stats.vercel.app/api/?username=KellisonSilva&show_icons=true&theme=vision-friendly-dark" alt="DRVW's statis"/>
-  </p>
+///<p align ="center">
+  ///<img width ="380em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=KellisonSilva&layout=compact&theme=vision-friendly-dark" //alt="KellisonSilva's most languages"/>
+ ///<img width ="380em" src="https://github-readme-stats.vercel.app/api/?username=KellisonSilva&show_icons=true&theme=vision-friendly-dark" alt="DRVW's statis"/>
+  ///</p>
 
   
  <br/>
