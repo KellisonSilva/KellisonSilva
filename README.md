@@ -27,11 +27,6 @@
 ![HTML5](https://img.icons8.com/color/40/000000/html-5--v1.png)&nbsp;
 
 </div>
- 
-///<p align ="center">
-  ///<img width ="380em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=KellisonSilva&layout=compact&theme=vision-friendly-dark" //alt="KellisonSilva's most languages"/>
- ///<img width ="380em" src="https://github-readme-stats.vercel.app/api/?username=KellisonSilva&show_icons=true&theme=vision-friendly-dark" alt="DRVW's statis"/>
-  ///</p>
 
   
  <br/>
