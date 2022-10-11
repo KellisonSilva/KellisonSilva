@@ -6,7 +6,6 @@
 
 - Eternal Student...
 - 💻 Backend Developer
-- 🔩 IOT
 - 🔐 CyberSecurity
 - 📖 Philosophy
 - 💪 Work out
