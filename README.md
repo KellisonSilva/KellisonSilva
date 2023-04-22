@@ -9,22 +9,6 @@
 - 📖 Philosophy
 - 💪 Work out
 
-## 🔧 Languages ​​and Tools
-
-![SpringBoot](https://img.icons8.com/color/40/000000/spring-logo.png)&nbsp;
-![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v2.png)&nbsp;
-![MySQL](https://img.icons8.com/color/40/000000/mysql-logo.png)&nbsp;
-![VisualStudioCode](https://img.icons8.com/fluency/40/000000/visual-studio-2019.png)&nbsp;
-![Eclipse](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/000000/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-shadow-tal-revivo.png)&nbsp;
-![MariaDB](https://img.icons8.com/color/40/000000/maria-db.png)&nbsp;
-![Postman](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png)&nbsp;
-![Maven](https://img.icons8.com/ios/40/000000/maven-ios.png)&nbsp;
-![Git](https://img.icons8.com/color/40/000000/git.png)&nbsp;
-![CSS3](https://img.icons8.com/color/40/000000/css3.png)&nbsp;
-![JavaScript](https://img.icons8.com/color/40/000000/javascript--v1.png)&nbsp;
-![HTML5](https://img.icons8.com/color/40/000000/html-5--v1.png)&nbsp;
-
-</div>
 
   
  <br/>
