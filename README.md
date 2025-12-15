@@ -4,14 +4,14 @@
 <h1 align ="center"> Hi I'm Drvw </h1>
 
 
-- Eternal Student...
-- 💻 Backend Developer
-- 📖 Philosophy
-- 💪 Work out
-
-📫 Email: [ShellsCode@protonmail.com](mailto:ShellsCode@protonmail.com)  
-🔗 LinkedIn: [kellison-s](https://www.linkedin.com/in/kellison-s)  
-📸 Instagram: [@drvw_s](https://www.instagram.com/drvw_s)
+Eternal Student...
   
+💻 Backend Developer
+📖 Philosophy
+💪 Work out
+🎓 Passionate about building scalable back-end systems  
+🌍 Based in Brazil | Open to remote opportunities  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/kellison-s)
+[![Instagram](https://img.shields.io/badge/Instagram-@drvw_s-E4405F?logo=instagram)](https://www.instagram.com/drvw_s)
  <br/>
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=KellisonSilva&color=blue" alt ="Profile views"/> </p>
