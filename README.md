@@ -7,9 +7,13 @@
 Eternal Student...
   
 <b>💻 Backend Developer</b>
+
 <b>📖 Philosophy</b>
+
 <b>💪 Work out</b>
+
 <b>🎓 Passionate about building scalable back-end systems</b>  
+
 <b>🌍 Based in Brazil | Open to remote opportunities</b>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/kellison-s)
