@@ -9,7 +9,9 @@
 - 📖 Philosophy
 - 💪 Work out
 
-
+📫 Email: [ShellsCode@protonmail.com](mailto:ShellsCode@protonmail.com)  
+🔗 LinkedIn: [kellison-s](https://www.linkedin.com/in/kellison-s)  
+📸 Instagram: [@drvw_s](https://www.instagram.com/drvw_s)
   
  <br/>
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=KellisonSilva&color=blue" alt ="Profile views"/> </p>
