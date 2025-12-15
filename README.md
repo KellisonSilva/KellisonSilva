@@ -7,7 +7,7 @@
 Eternal Student...
   
 <b>💻 Backend Developer</b>
-📖 Philosophy
+<a><b>📖 Philosophy</b></a>
 💪 Work out
 🎓 Passionate about building scalable back-end systems  
 🌍 Based in Brazil | Open to remote opportunities  
