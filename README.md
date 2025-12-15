@@ -4,7 +4,7 @@
 <h1 align ="center"> Hi there!! I'm Drvw </h1>
 
 
-Eternal Student...
+<h1 align="center">✨ ETERNAL STUDENT...</h1>
   
 <b>💻 Backend Developer</b>
 
